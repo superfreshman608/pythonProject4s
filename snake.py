@@ -2,7 +2,7 @@
 import pygame, random
 
 # Initialize pygame
-# TODO: call pygame.init()
+pygame.init()
 
 # Set display window
 # TODO: create a WINDOW_WIDTH variable and assign it a value of 600
